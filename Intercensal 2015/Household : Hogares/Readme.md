@@ -27,11 +27,16 @@ Reference: *Minnesota Population Center. (2018). Integrated Public Use Microdata
 
 **medhhinc**: Median Household Income for the borough, defined as the sum of the wages for a household (2015 Pesos).
 
-**nofloor**: The percentage of households inn the borough that do not have a quality floor. 
+**nofloor**: The percentage of households in the borough whose dwelling lacks a finished, covered floor. 
 
-**noroof**:
+**noroof**: The percentage of households in the borough whose dwelling lacks a finished roof of a superior quality (per CONEVAL's definition).
 
-**nowalls**:
+**nowalls**: The percentage of households in the borough whose dewlling lacks walls or whose walls are built of unacceptable material (see CONEVAL's definition).
 
 **nchild**: The average number of children per household in the borough.
+
+**cell**: The percentage of households with access to a cellular phone.
+
+**internet**: The percentage of households with internet access.
+
 
