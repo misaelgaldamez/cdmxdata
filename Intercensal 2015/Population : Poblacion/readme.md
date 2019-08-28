@@ -1,6 +1,6 @@
 # Data File Description
 
-This datafile is a summary of the 2015 Intercensal Survey, aggregated at the borough level by household. Each statistic represents the characteristics of the average household in the respective borough.
+This datafile is a summary of the 2015 Intercensal Survey, aggregated at the borough level by *individual*. Each statistic represents the characteristics of the *person* in the respective borough.
 
 The microdata is harmonized and cleaned by the Minnesota Population Center via IPUMS International and I have uploaded here my processed files.
 
