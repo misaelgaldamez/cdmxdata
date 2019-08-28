@@ -19,7 +19,7 @@ Reference: *Minnesota Population Center. (2018). Integrated Public Use Microdata
 
 **name**: The name of the borough (delegación) within Mexico City.
 
-**poph**: The borough's population in 2015.
+**pop**: The borough's population in 2015.
 
 **minwage**: The average person's income from wages expressed as a multiple of the minimum wage (2015 pesos; minimum wage = $70.10).
 
