@@ -9,16 +9,29 @@ Reference: *Minnesota Population Center. (2018). Integrated Public Use Microdata
 
 # Variable Definitions
 
-mun2: Unique identifier for each borough, composed of the state ID and the municipal ID.
-country: IPUMS country code for Mexico (484).
-state: INEGI's identification code for Mexico City (9).
-borough: INEGI's identification code for the boroughs within Mexico City.
-name: The name of the borough (delegación) within Mexico City.
-hh: The total number of households within the borough.
-persons: The average number of persons per household within the borough.
-crowd: The percentage of households in the borough that are overcrowded, defined as having greater than 2.5 persons per room (not including hallways or the bathroom).
-medhhinc: Median Household Income for the borough, defined as the sum of the wages for a household (2015 Pesos).
-nofloor: The percentage of households inn the borough that do not have a quality floor. 
-noroof:
-nowalls:
-nchild: The average number of children per household in the borough.
+**mun2**: Unique identifier for each borough, composed of the state ID and the municipal ID.
+
+**country**: IPUMS country code for Mexico (484).
+
+**state**: INEGI's identification code for Mexico City (9).
+
+**borough**: INEGI's identification code for the boroughs within Mexico City.
+
+**name**: The name of the borough (delegación) within Mexico City.
+
+**hh**: The total number of households within the borough.
+
+**persons**: The average number of persons per household within the borough.
+
+**crowd**: The percentage of households in the borough that are overcrowded, defined as having greater than 2.5 persons per room (not including hallways or the bathroom).
+
+**medhhinc**: Median Household Income for the borough, defined as the sum of the wages for a household (2015 Pesos).
+
+**nofloor**: The percentage of households inn the borough that do not have a quality floor. 
+
+**noroof**:
+
+**nowalls**:
+
+**nchild**: The average number of children per household in the borough.
+
